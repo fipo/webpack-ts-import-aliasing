@@ -1,0 +1,41 @@
+{
+  "name": "webpack-ts-import-aliasing",
+  "version": "0.1",
+  "main": "index.ts",
+  "repository": "git@github.com:fipo/webpack-ts-import-aliasing.git",
+  "author": "Philip Sotirov <me@philipsotirov.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server --mode development --color --progress --config webpack.dev.js",
+    "build": "webpack --mode production --color --progress --config webpack.prod.js",
+    "predeploy": "yarn build",
+    "postdeploy": "rimraf ./dist"
+  },
+  "dependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@types/react": "^16.8.5",
+    "@types/react-dom": "^16.8.2",
+    "@types/webpack-env": "^1.13.7",
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-loader": "^8.0.5",
+    "clean-webpack-plugin": "^1.0.1",
+    "handlebars": "^4.1.0",
+    "handlebars-loader": "^1.7.1",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "husky": "^1.3.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "rimraf": "^2.6.3",
+    "style-loader": "^0.23.1",
+    "tslint": "^5.13.0",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.5",
+    "webpack-bundle-analyzer": "^3.0.4",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1",
+    "webpack-merge": "^4.2.1"
+  }
+}
