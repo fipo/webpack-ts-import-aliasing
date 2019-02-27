@@ -47,7 +47,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'Challenge M8',
+      title: 'Playhouse',
       chunks: ['vendor', 'main'],
       template: '../public/index.hbs'
     })
