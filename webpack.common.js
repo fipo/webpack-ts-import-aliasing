@@ -13,10 +13,9 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.ts', '.tsx'],
     alias: {
-      'src/common': path.join(sourcePath, 'common'),
-      'src/components': path.join(sourcePath, 'components'),
-      'src/scenes': path.join(sourcePath, 'scenes'),
-      src: sourcePath
+      'common': path.join(sourcePath, 'common'),
+      'components': path.join(sourcePath, 'components'),
+      'utils': path.join(sourcePath, 'utils')
     }
   },
   module: {
