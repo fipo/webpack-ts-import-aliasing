@@ -8,6 +8,21 @@
     "allowJs": true,
     "removeComments": true,
   },
+  "baseUrl": "./",
+  "paths": {
+    "common/*": [
+      "./src/common/*"
+    ],
+    "components/*": [
+      "./src/components/*"
+    ],
+    "service/*": [
+      "./src/service/*"
+    ],
+    "utils/*": [
+      "./src/utils/*"
+    ],
+  },
   "exclude": [
     "dist",
     "node_modules"

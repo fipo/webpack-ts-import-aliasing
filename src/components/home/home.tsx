@@ -1,12 +1,14 @@
 import * as React from 'react';
-import {format} from 'common/utils';
+// import { getFormattedValue } from 'common/utils';
 
-interface IHomeProps {}
-interface IHomeState {}
+interface IHomeProps { }
+interface IHomeState { }
 class Home extends React.Component<IHomeProps, IHomeState> {
   render() {
-    return(
-
+    return (
+      <div>Hi</div>
     )
   }
 }
+
+export default Home
