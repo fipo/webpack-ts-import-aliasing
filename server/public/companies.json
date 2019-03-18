@@ -1,0 +1,494 @@
+{
+  "companies": [
+    {
+      "name": "Hochtief",
+      "revenue": "€22,631",
+      "address": "Opernplatz 2, 45128",
+      "city": "Essen",
+      "url": "https://www.hochtief.com",
+      "email": "infoABE@hochtief.de",
+      "phone": "(+49) 201 824-0",
+      "specialty": ""
+    },
+    {
+      "name": "Eiffage Deutschland",
+      "revenue": "€14,976",
+      "address": "Wittfeld GmbH, Hansastrasse 83, 49134",
+      "city": "Wallenhorst",
+      "url": "http://www.wittfeld.de",
+      "email": "info@wittfeld.eiffage.de",
+      "phone": "(+49) 5407 501-0",
+      "specialty": ""
+    },
+    {
+      "name": "Strabag / Züblin",
+      "revenue": "€13,508",
+      "address": "STRABAG Corporate Communications, Siegburger Str. 241, 50679",
+      "city": "Cologne",
+      "url": "http://www.strabag.com",
+      "email": "info.de@strabag.com",
+      "phone": "(+49) 221 824-2472",
+      "specialty": ""
+    },
+    {
+      "name": "BAM Deutschland",
+      "revenue": "€6,604",
+      "address": "Mönchhaldenstraße 26,  70191",
+      "city": "Stuttgart",
+      "url": "https://www.bam.com",
+      "email": "info@bam-deutschland.de",
+      "phone": "(+49) 0711 250 07-0",
+      "specialty": ""
+    },
+    {
+      "name": "PORR",
+      "revenue": "€4,292",
+      "address": "Walter-Gropius-Strasse 23, 80807",
+      "city": "Munich",
+      "url": "https://porr-group.com",
+      "email": "muenchen.hochbau@porr-deutschland.de",
+      "phone": "(+49) 89 710 01-0",
+      "specialty": ""
+    },
+    {
+      "name": "Implenia",
+      "revenue": "€3,859",
+      "address": "Zielstattstrasse 19, 81379",
+      "city": "München",
+      "url": "https://www.implenia.com",
+      "email": "https://www.implenia.com/en/contact/-_-_-_169.html",
+      "phone": "(+49) 89 720 1887-0",
+      "specialty": ""
+    },
+    {
+      "name": "Goldbeck",
+      "revenue": "€2,729",
+      "address": "Ummelner Straße 4-6, 33649",
+      "city": "Bielefeld",
+      "url": "https://www.goldbeck.de",
+      "email": "info@goldbeck.de",
+      "phone": "(+49) 521 94 88 0",
+      "specialty": ""
+    },
+    {
+      "name": "Zech Group",
+      "revenue": "€1.964",
+      "address": "Zech Group GmbH. August-Bebel-Allee 1, 28329",
+      "city": "Bremen",
+      "url": "https://www.zech-group.com",
+      "email": "info@zech-group.com",
+      "phone": "(+49) 421 4 10 07-0",
+      "specialty": ""
+    },
+    {
+      "name": "Bauer",
+      "revenue": "€1,772",
+      "address": "BAUER AG, BAUER-Straße 1, 86529",
+      "city": "Schrobenhausen",
+      "url": "https://www.bauer.de",
+      "email": "info@bauer.de",
+      "phone": "(+49) 8252 97-0",
+      "specialty": ""
+    },
+    {
+      "name": "Max Bögl",
+      "revenue": "€1.700",
+      "address": "Max Bögl Group, Max-Bögl-Straße 1, 92369",
+      "city": "Sengenthal",
+      "url": "https://www.max-boegl.de",
+      "email": "info@max-boegl.de",
+      "phone": "(+49) 9181 909-0",
+      "specialty": ""
+    },
+    {
+      "name": "Kaefer Isoliertechnik",
+      "revenue": "€1.600",
+      "address": "Marktstr. 2, 28195",
+      "city": "Bremen",
+      "url": "https://www.kaefer.com",
+      "email": "info@kaefer.com",
+      "phone": "(+49) 421 3055",
+      "specialty": ""
+    },
+    {
+      "name": "Leonhard Weiss",
+      "revenue": "€1,247",
+      "address": "LEONHARD WEISS GmbH & Co. KG, Leonhard-Weiss-Str. 22, 73037",
+      "city": "Göppingen",
+      "url": "https://www.leonhard-weiss.de",
+      "email": "bau-de@leonhard-weiss.com",
+      "phone": "(+49) 7161 602-0",
+      "specialty": ""
+    },
+    {
+      "name": "Köster",
+      "revenue": "€1.180",
+      "address": "Sutthauser Straße 280,  49080 OsnabrückSutthauser Straße 280, 49080",
+      "city": "Osnabrück",
+      "url": "https://www.koester-bau.de",
+      "email": "https://www.koester-bau.de/standorte-1/osnabrueck.html",
+      "phone": "",
+      "specialty": ""
+    },
+    {
+      "name": "Lindner Group",
+      "revenue": "€925",
+      "address": "Bahnhofstraße 29, 94424",
+      "city": "Arnstorf",
+      "url": "https://www.lindner-group.com/",
+      "email": "info@lindner-group.com",
+      "phone": "(+49) 8723 20-0",
+      "specialty": ""
+    },
+    {
+      "name": "WOLFF & MÜLLER",
+      "revenue": "€850",
+      "address": "WOLFF & MÜLLER Holding GmbH & Co. KG, Schwieberdinger Straße 107, 70435",
+      "city": "Stuttgart",
+      "url": "https://www.wolff-mueller.de/",
+      "email": "info@wolff-mueller.de",
+      "phone": "(+49) 711 82 04-0",
+      "specialty": ""
+    },
+    {
+      "name": "Eurovia Deutschland",
+      "revenue": "€810",
+      "address": "EUROVIA, Franz-Ehrlich-Straße 5, 12489",
+      "city": "Berlin",
+      "url": "https://www.eurovia.de",
+      "email": "presse@eurovia.de",
+      "phone": "(+49)  2041 792-475",
+      "specialty": ""
+    },
+    {
+      "name": "Bremer",
+      "revenue": "€649",
+      "address": "BREMER AG, Grüner Weg 28-48, 33098",
+      "city": "Paderborn",
+      "url": "https://www.bremerbau.com",
+      "email": "info@bremerbau.de",
+      "phone": "(+49) 5251 770-0",
+      "specialty": ""
+    },
+    {
+      "name": "Gallinger",
+      "revenue": "€581",
+      "address": "Dr.-Schott-Str. 65, 94227 ",
+      "city": "Zwiesel",
+      "url": "https://www.streicher.de/",
+      "email": "",
+      "phone": "",
+      "specialty": ""
+    },
+    {
+      "name": "Günter Papenburg",
+      "revenue": "€575",
+      "address": "GP Günter Papenburg AG, Anderter Straße 99c, DE-30559 -",
+      "city": "Hannover",
+      "url": "http://www.gp.ag/gp-ag/Start/",
+      "email": "info@gp.ag",
+      "phone": "(+49) 511 228899-0",
+      "specialty": ""
+    },
+    {
+      "name": "Deutsche Fertighaus",
+      "revenue": "€542",
+      "address": "DFH Deutsche Fertighaus Holding AG, Argenthaler Straße 7, 55469",
+      "city": "Simmern",
+      "url": "https://dfhag.de",
+      "email": "kontakt@dfhag.de",
+      "phone": "(+49) 6761 90300-0",
+      "specialty": ""
+    },
+    {
+      "name": "Wilhelm Geiger",
+      "revenue": "€500",
+      "address": "Geiger Unternehmensgruppe, Wilhelm-Geiger-Straße 1, 87561",
+      "city": "Oberstdorf",
+      "url": "https://www.geigergruppe.de",
+      "email": "info@geigergruppe.de",
+      "phone": "(+49) 8322 18-0",
+      "specialty": ""
+    },
+    {
+      "name": "Michael Klebl.",
+      "revenue": "€490",
+      "address": "Gößweinstraße 2, 92318",
+      "city": "Neumarkt",
+      "url": "https://klebl.de/unternehmen",
+      "email": "klebl@klebl.de",
+      "phone": "(+49) 09181 900-0",
+      "specialty": ""
+    },
+    {
+      "name": "Berger Bau",
+      "revenue": "€460",
+      "address": "BERGER HOLDING AG, Äußere Spitalhofstraße 19, D-94036",
+      "city": "Passau",
+      "url": "https://bergerholding.eu",
+      "email": "info@BergerHolding.eu",
+      "phone": "(+49) 851 806-0",
+      "specialty": ""
+    },
+    {
+      "name": "Wayss & Freytag Ingenieurbau",
+      "revenue": "€433",
+      "address": "Eschborner Landstraße 130,  60489",
+      "city": "Frankfurt am Main",
+      "url": "https://www.wf-ib.de/en/focus-on-competence/",
+      "email": "info@wf-ib.de",
+      "phone": "(+49) 069 7929-510",
+      "specialty": ""
+    },
+    {
+      "name": "W. Markgraf",
+      "revenue": "€430",
+      "address": "W. MARKGRAF GmbH & Co KG, Dieselstraße 9, 95448",
+      "city": "Bayreuth",
+      "url": "http://www.markgraf-bau.de",
+      "email": "info@markgraf-bau.de",
+      "phone": "(+49) 921 297-0",
+      "specialty": ""
+    },
+    {
+      "name": "Bickhardt",
+      "revenue": "€400",
+      "address": "Bickhardt Bau Aktiengesellschaft, Industriestraße 9, 36275",
+      "city": "Kirchheim",
+      "url": "http://www.bickhardt-bau.de/",
+      "email": "info@bickhardt-bau.de",
+      "phone": "(+49) 06625/88-0",
+      "specialty": ""
+    },
+    {
+      "name": "Kemna Bau Andreae",
+      "revenue": "€400",
+      "address": "KEMNA BAU Andreae GmbH & Co. KG · Tondernstraße 70 · 25421",
+      "city": "Pinneberg",
+      "url": "https://www.kemna.de/",
+      "email": "info@kemna.de",
+      "phone": "(+49) 04101 / 70 05 - 0",
+      "specialty": ""
+    },
+    {
+      "name": "Johann Bunte",
+      "revenue": "€400",
+      "address": "Hauptkanal links 88, 26871",
+      "city": "Papenburg",
+      "url": "https://www.johann-bunte.de/",
+      "email": "papenburg@johann-bunte.de",
+      "phone": "(+49) 04961 895-0",
+      "specialty": ""
+    },
+    {
+      "name": "Diringer & Scheidel",
+      "revenue": "€400",
+      "address": "Wilhelm-Wundt-Straße 19, 68199",
+      "city": "Mannheim",
+      "url": "https://www.dus-bau.de",
+      "email": "info@dus.de",
+      "phone": "(+49) 0621 8607-0",
+      "specialty": ""
+    },
+    {
+      "name": "Depenbrock",
+      "revenue": "€385",
+      "address": "Depenbrock Bau GmbH & Co. KG, Blumenhorst 6, 32351",
+      "city": "Stemwede",
+      "url": "https://www.depenbrock.de/",
+      "email": "info@depenbrock.de",
+      "phone": "(+49) 0 54 74 68 - 0 ",
+      "specialty": ""
+    },
+    {
+      "name": "Spitzke",
+      "revenue": "€378",
+      "address": "GVZ Berlin Su?d, Ma?rkische Allee 39/​41, 14979",
+      "city": "Großbeeren",
+      "url": "https://www.spitzke.com",
+      "email": "info@spitzke.com",
+      "phone": "(+49) 33701 901-0",
+      "specialty": ""
+    },
+    {
+      "name": "Mensching",
+      "revenue": "€378",
+      "address": "Mensching Holding GmbH, Chromstraße 12, D-30916",
+      "city": "Isernhagen",
+      "url": "https://www.mensching-holding.de",
+      "email": "info@mensching-holding.de ",
+      "phone": "(+49) 0511 / 7284-0",
+      "specialty": ""
+    },
+    {
+      "name": "Heberger Bau",
+      "revenue": "€337",
+      "address": "Waldspitzweg 3, 67105",
+      "city": "Schifferstadt",
+      "url": "https://www.heberger.com/",
+      "email": "info@heberger.com",
+      "phone": "(+49) 62 35 930-0",
+      "specialty": ""
+    },
+    {
+      "name": "Aug. Prien",
+      "revenue": "€320",
+      "address": "Dampfschiffsweg 3 - 9, 21079",
+      "city": "Hamburg",
+      "url": "https://www.augprien.de/",
+      "email": "info@augprien.de",
+      "phone": "(+49) 040 77125-0",
+      "specialty": ""
+    },
+    {
+      "name": "Peter Gross",
+      "revenue": "€312",
+      "address": "Dudweilerstraße 80, 66386 St.",
+      "city": "Ingbert",
+      "url": "https://gross-bau.de",
+      "email": "info@gross-bau.de",
+      "phone": "(+49)  6894 15-0",
+      "specialty": ""
+    },
+    {
+      "name": "Ludwig Freytag",
+      "revenue": "€300",
+      "address": "Ammerländer Heerstraße 368, 26129",
+      "city": "Oldenburg",
+      "url": "https://www.ludwig-freytag.de/en/about/index.php",
+      "email": "info@ludwig-freytag.de",
+      "phone": "(+49) 441 9704-0",
+      "specialty": ""
+    },
+    {
+      "name": "Wiebe",
+      "revenue": "€293",
+      "address": "Wiebe Holding GmbH & Co. KG - Im Finigen 8, 28832",
+      "city": "Achim",
+      "url": "https://www.wiebe.de/en/",
+      "email": "info-wiebe-achim@wiebe.de",
+      "phone": "(+49) 4202 987-0",
+      "specialty": ""
+    },
+    {
+      "name": "Wolf System",
+      "revenue": "€285",
+      "address": "Am Stadtwald 20, Osterhofen, ",
+      "city": "94486",
+      "url": "https://wolfsystem.de/",
+      "email": "https://wolfsystem.de/#contactForm",
+      "phone": "(+49) 49 9932 37-0",
+      "specialty": ""
+    },
+    {
+      "name": "Helma Eigenheimbau",
+      "revenue": "€283",
+      "address": "Zum Meersefeld 4, 31275",
+      "city": "Lehrte",
+      "url": "https://www.helma.de",
+      "email": "info@HELMA.de",
+      "phone": "(+49) 05132 / 8850-0",
+      "specialty": ""
+    },
+    {
+      "name": "WBV",
+      "revenue": "€280",
+      "address": "Weisenburger, Werkstraße 11, 76437",
+      "city": "Rastatt",
+      "url": "https://www.weisenburger.de/",
+      "email": "info@weisenburger.de",
+      "phone": "(+49) 07222/959-0",
+      "specialty": ""
+    },
+    {
+      "name": "Schwörer Haus",
+      "revenue": "€270",
+      "address": "Hans-Schwörer-Str. 8, 72531 Hohenstein",
+      "city": "Oberstetten",
+      "url": "https://www.schwoererhaus.com",
+      "email": "info@schwoerer.de",
+      "phone": "(+49) 7387 16-0",
+      "specialty": ""
+    },
+    {
+      "name": "Thomas Beteiligungen",
+      "revenue": "€268",
+      "address": "Im Industriepark 13, 55469",
+      "city": "Simmern",
+      "url": "https://www.thomas-gruppe.de",
+      "email": "presse@thomas-gruppe.de",
+      "phone": "(+49) 6761 901 100",
+      "specialty": ""
+    },
+    {
+      "name": "Hülskens",
+      "revenue": "€267",
+      "address": "Hafenstraße 3, 46483",
+      "city": "Wesel",
+      "url": "https://www.huelskens-wasserbau.de/",
+      "email": "https://www.huelskens-wasserbau.de/kontakt/",
+      "phone": "(+49) 02 81 / 204 -230",
+      "specialty": ""
+    },
+    {
+      "name": "Weber",
+      "revenue": "€263",
+      "address": "Dieselstraße 13, 50259 Pulheim /",
+      "city": "Köln",
+      "url": "https://www.weber-unternehmensgruppe.com",
+      "email": "info@weber-unternehmensgruppe.com",
+      "phone": "(+49) 02238 96501-0",
+      "specialty": ""
+    },
+    {
+      "name": "Weber Haus",
+      "revenue": "€250",
+      "address": "WeberHaus GmbH & Co KG - Am Erlenpark 1 - 77866",
+      "city": "Rheinau",
+      "url": "https://www.weberhaus.de",
+      "email": "https://www.weberhaus.de/kontakt/",
+      "phone": "(+49) 0 7853 83 830",
+      "specialty": ""
+    },
+    {
+      "name": "Richard Schulz",
+      "revenue": "€230",
+      "address": "Beethovenstr. 4, 86633 Neuburg",
+      "city": "Donau",
+      "url": "https://www.schulz-tiefbau.de/",
+      "email": "info@schulz-tiefbau.de",
+      "phone": "(+49) 0 84 31 / 5 99 - 0",
+      "specialty": ""
+    },
+    {
+      "name": "Karl Bachl Fertigbau",
+      "revenue": "€198",
+      "address": "Karl Bachl GmbH & Co KG, Deching 3, 94133",
+      "city": "Röhrnbach",
+      "url": "https://www.bachl.de",
+      "email": "deching@bachl.de",
+      "phone": "(+49) 08582/18-0",
+      "specialty": ""
+    },
+    {
+      "name": "Adolf Lupp",
+      "revenue": "€196",
+      "address": "Adolf Lupp GmbH + Co KG, Alois-Thums-Straße 1-3, D-63667",
+      "city": "Nidda",
+      "url": "http://www.lupp.de/de",
+      "email": "info@lupp.de",
+      "phone": "(+49) 60 43 - 807 0",
+      "specialty": ""
+    },
+    {
+      "name": "Matthäi",
+      "revenue": "€164",
+      "address": "MATTHÄI Bauunternehmen GmbH & Co. KG, Bremer Straße 135, 27283",
+      "city": "Verden",
+      "url": "http://www.matthaei.de",
+      "email": "verden@matthaei.de",
+      "phone": "(+49) 4231 766-0",
+      "specialty": ""
+    }
+  ]
+}

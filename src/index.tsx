@@ -1,8 +1,15 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
 
-import Home from 'components/home';
+import store from './store';
 
-const App = () => <div><Home /></div>
+import Home from './scenes/home';
+
+const App = () => (
+  <Provider store={store}>
+    <div><Home /></div>
+  </Provider>
+)
 
 ReactDOM.render(<App />, document.getElementById('root'));

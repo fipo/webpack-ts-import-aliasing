@@ -13,9 +13,10 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.ts', '.tsx'],
     alias: {
-      common: path.resolve(__dirname, './src/common/'),
-      components: path.resolve(__dirname, './src/components/'),
-      utils: path.resolve(__dirname, './src/utils/')
+      '~common': path.resolve(__dirname, './src/common/'),
+      '~components': path.resolve(__dirname, './src/components/'),
+      '~services': path.resolve(__dirname, './src/services/'),
+      '~utils': path.resolve(__dirname, './src/utils/')
     }
   },
   module: {
@@ -30,7 +31,7 @@ module.exports = {
               babelrc: true
             },
           },
-          'awesome-typescript-loader'
+          'ts-loader'
         ]
       },
       {

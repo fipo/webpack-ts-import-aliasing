@@ -1,26 +1,30 @@
 {
   "compilerOptions": {
-    "outDir": "./dist/",
+    "allowJs": true,
+    "jsx": "react",
+    "lib": [
+      "es6",
+      "dom"
+    ],
     "module": "es6",
     "moduleResolution": "node",
-    "target": "ES5",
-    "jsx": "react",
-    "allowJs": true,
+    "outDir": "./dist/",
     "removeComments": true,
+    "target": "ES5"
   },
-  "baseUrl": "./",
+  "baseUrl": ".",
   "paths": {
-    "common/*": [
-      "./src/common/*"
+    "~common/*": [
+      "src/common/*"
     ],
-    "components/*": [
-      "./src/components/*"
+    "~components/*": [
+      "src/components/*"
     ],
-    "service/*": [
-      "./src/service/*"
+    "~services/*": [
+      "src/services/*"
     ],
-    "utils/*": [
-      "./src/utils/*"
+    "~utils/*": [
+      "src/utils/*"
     ],
   },
   "exclude": [
