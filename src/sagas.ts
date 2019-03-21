@@ -1,5 +1,8 @@
-import { fork } from 'redux-saga/effects';
+import { all } from 'redux-saga/effects';
+import companies from './services/companies/saga';
 
 export default function* sagas() {
-  yield [];
+  yield all([
+    companies(),
+  ]);
 }

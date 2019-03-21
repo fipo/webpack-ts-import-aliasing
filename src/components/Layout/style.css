@@ -1,0 +1,21 @@
+.l-layout {
+  padding: 16px;
+  display: flex;
+  margin: 0 auto;
+  width: 1280px;
+}
+
+.l-layout .l-sidebar {
+  margin-right: 16px;
+  padding-top: 58px;
+  width: 200px;
+}
+
+.l-layout .l-sidebar > div {
+  margin-bottom: 16px;
+}
+
+.l-layout .l-sidebar > div > p {
+  font-size: 18px;
+  margin-bottom: 8px;
+}

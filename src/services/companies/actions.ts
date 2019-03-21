@@ -1,10 +1,20 @@
-import { ActionTypes } from './types';
+import { ActionTypes, ICompanies } from './types';
 
-export const getCompanies = () => ({
-  type: ActionTypes.GetList
-})
+export const getCompaniesList = () => ({
+  type: ActionTypes.GetCompaniesList,
+});
 
-export const getCompaniesSave = (data: I): IGetCompaniesSaveAction => ({
-  type: ActionTypes.GetListSave,
-  payload: { data }
-})
+export const getCompaniesListReceived = (response: ICompanies) => ({
+  payload: response.companies,
+  type: ActionTypes.GetCompaniesListReceived,
+});
+
+export const searchCompany = (searchText: string) => ({
+  payload: searchText,
+  type: ActionTypes.SearchCompany,
+});
+
+export const filterList = (filters: string[]) => ({
+  payload: filters,
+  type: ActionTypes.FilterList,
+});

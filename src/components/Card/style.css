@@ -1,0 +1,32 @@
+.card {
+  border: 1px solid var(--silver);
+  margin-bottom: 8px;
+  padding: 8px;
+  position: relative;
+}
+
+.card .title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.card .detailsContainer {
+  display: flex;
+}
+
+.card .details {
+  margin-left: 16px;
+  line-height: 24px;
+}
+
+.card .id {
+  color: var(--silver);
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 8px;
+}

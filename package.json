@@ -8,6 +8,7 @@
   "private": true,
   "scripts": {
     "test": "jest",
+    "lint": "tslint 'src/**/*.{ts,tsx}' -p tsconfig.json",
     "start": "nf start",
     "server": "nodemon --exec babel-node server/index.js",
     "web": "webpack-dev-server --mode development --color --progress --config webpack.dev.js",
@@ -27,6 +28,7 @@
     "babel-loader": "^8.0.5",
     "clean-webpack-plugin": "^1.0.1",
     "cors": "^2.8.5",
+    "css-loader": "^2.1.1",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
     "handlebars": "^4.1.0",
@@ -40,6 +42,7 @@
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
     "redux-saga": "^1.0.2",
+    "reselect": "^4.0.0",
     "rimraf": "^2.6.3",
     "style-loader": "^0.23.1",
     "ts-loader": "^5.3.3",
@@ -53,6 +56,12 @@
   },
   "devDependencies": {
     "foreman": "^3.0.1",
-    "jest": "^24.1.0"
+    "jest": "^24.1.0",
+    "tslint-config-airbnb": "^5.11.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint"
+    }
   }
 }

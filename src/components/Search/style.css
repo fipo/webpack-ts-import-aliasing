@@ -1,0 +1,6 @@
+.searchBox input {
+  width: 100%;
+  border: 1px solid var(--silver);
+  outline: none;
+  padding: 8px;
+}
